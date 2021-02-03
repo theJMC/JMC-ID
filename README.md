@@ -1,6 +1,7 @@
 # JMC-ID
 
 This is my Python ID Library, that adds an ID datatype for Python. 
+*IT IS NOT A FULLY FUNCTIONAL LIBRARY, JUST MY ATTEMPT AT ONE*
 
 ## ID DATATYPES: 
 
